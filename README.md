@@ -1,6 +1,6 @@
 # redux-simple-starter
 
-It is the updated version of [ReduxSimpleStater](https://github.com/StephenGrider/ReactStarter/releases).
+It is the updated version of [ReduxSimpleStater](https://github.com/StephenGrider/ReactStarter).
 
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
